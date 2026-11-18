@@ -14,7 +14,7 @@ To see your Note, put in the Name of your Note, without Datatype, (.txt) and it 
 If you want to delete a Note you don't need, write the Name of the Note (No .txt needed again) and confirm the Deletion.
 
 ### 4: Infos of Note
-To see Information of Your File
+To see Information of Your File, just enter the Name of the .txt File.
 
 ### 5: Search Patterns of Note
 To Look for a Pattern that could be in a Note, enter the Pattern you are looking for. Inputting "/ /" is not needed. The Input is automaticly Case Insensitive.
